@@ -209,3 +209,23 @@ Como la condición se cumple, **el circuito es seguro en términos de retención
 -   **Las demás compuertas lógicas de la familia 74HC tienen tiempos similares**, por lo que se pueden considerar dentro del mismo análisis.
 
 Este análisis permite validar la operación correcta del circuito bajo los parámetros de tiempo de los componentes utilizados. 🚀
+
+# Vending Machine FSM (Máquina expendedora de 3Q)
+
+Este proyecto implementa una máquina de estados finitos para una expendedora de Q3 usando SystemVerilog, VHDL y simulación en Logisim-Evolution.
+
+## 🔧 Módulos
+
+- `fsm_controller`: controla el cambio de estado
+- `credit_output`: genera la salida de crédito
+- `vending_fsm_top`: une ambos módulos
+- `logisim/`: contiene la versión visual para simular en Logisim
+
+## 🧪 Simulación
+
+Podés simular con ModelSim o Vivado, y también probarlo visualmente en Logisim con HDL Simulation habilitado.
+
+
+**Video del proyecto**
+[Ver Video en YouTube](https://youtu.be/DQt-0bW2Cig)
+[Ver proyecto en Drive](https://drive.google.com/drive/folders/1hcWzh3fDUUttIKZvXMyJU5xw6KZZ_uUT?usp=drive_link)
