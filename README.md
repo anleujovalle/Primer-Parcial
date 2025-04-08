@@ -228,4 +228,5 @@ Podés simular con ModelSim o Vivado, y también probarlo visualmente en Logisim
 
 **Video del proyecto**
 [Ver Video en YouTube](https://youtu.be/DQt-0bW2Cig)
+
 [Ver proyecto en Drive](https://drive.google.com/drive/folders/1hcWzh3fDUUttIKZvXMyJU5xw6KZZ_uUT?usp=drive_link)
